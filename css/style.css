@@ -44,7 +44,7 @@ html {
 .header {
     padding-top: 30px;
     padding-bottom: 127px;
-    background-image: url("../img/banner-bg.jpg");
+    background-image: url("./img/banner-bg.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
