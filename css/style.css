@@ -954,6 +954,9 @@ select:focus {
     .shop-card {
         width: 100%;
     }
+    .shop-card:nth-child(n+3) {
+        margin-top: 0px;
+    }
     .sidebar {
         font-size: 16px;
         width: 100%;
