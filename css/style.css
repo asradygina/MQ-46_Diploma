@@ -542,7 +542,8 @@ html {
 
 .shop-card {
     width: 30%;
-    height: 100%;
+    display: flex;
+    flex-direction: column;
 }
 
 .shop-cards-image {
@@ -572,11 +573,10 @@ html {
 }
 
 .shop_content {
-    display: flex;
+    flex-grow: 1;
     border: 3px solid #b59f5b;
     background-color: transparent;
     z-index: 10;
-    height: 266px;
     padding: 40px 24px 40px 24px;
     transform: translateY(-32px);
 }
