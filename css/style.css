@@ -922,9 +922,7 @@ select:focus {
 }
 
 @media (max-width: 640px) and (orientation: landscape) {
-    .sidebar {
-        flex: 1 1;
-    }
+    
     .main {
         flex: 1 1;
     }
