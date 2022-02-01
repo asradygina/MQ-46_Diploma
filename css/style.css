@@ -919,14 +919,11 @@ select:focus {
     .shop-body {
         font-size: 17px;
     }
-}
-
-@media (max-width: 640px) and (orientation: landscape) {
-    
-    .main {
+     .main {
         flex: 1 1;
     }
 }
+
 
 @media (max-width: 640px) and (orientation: portrait) {
     .header {
