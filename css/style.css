@@ -412,6 +412,11 @@ html {
 
 .form-search {
     display: flex;
+    align-items: center;
+}
+
+.form-group {
+    flex: 1 1;
 }
 
 .visually-hidden {
@@ -422,7 +427,7 @@ html {
 }
 
 .field {
-    width: 221px;
+    width: 100%;
     padding: 18px;
     font-size: 13px;
     border: none;
