@@ -920,7 +920,8 @@ select:focus {
         font-size: 17px;
     }
 }
-(max-width: 640px) and (orientation: landscape) {
+
+@media (max-width: 640px) and (orientation: landscape) {
     .sidebar {
         flex: 1 1;
     }
