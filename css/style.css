@@ -920,6 +920,14 @@ select:focus {
         font-size: 17px;
     }
 }
+(max-width: 640px) and (orientation: landscape) {
+    .sidebar {
+        flex: 1 1;
+    }
+    .main {
+        flex: 1 1;
+    }
+}
 
 @media (max-width: 640px) and (orientation: portrait) {
     .header {
