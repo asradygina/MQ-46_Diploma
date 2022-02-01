@@ -348,7 +348,7 @@ html {
 .sidebar {
     width: 272px;
     font-size: 14px;
-    flex-shrink: 0;
+    
 }
 
 .sidebar-header {
