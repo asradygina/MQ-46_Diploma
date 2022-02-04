@@ -889,6 +889,9 @@ select:focus {
     .article-text {
         margin-left: 0;
     }
+    .article-image {
+        width: 100%;
+    }
     .shop-cards {
         display: flex;
         flex-wrap: wrap;
@@ -957,6 +960,7 @@ select:focus {
     }
     .article-image {
         margin: 10px auto;
+        width: 100%;
     }
     .shop-cards {
         flex-direction: column;
