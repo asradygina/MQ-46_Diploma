@@ -889,9 +889,7 @@ select:focus {
     .article-text {
         margin-left: 0;
     }
-    .article-image {
-        width: 100%;
-    }
+    
     .shop-cards {
         display: flex;
         flex-wrap: wrap;
